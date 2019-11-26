@@ -34,3 +34,19 @@
 |F  |T | T
 |F  |F | T
 (p - hypothesis,  q- conclusion)
+
+P |Q |(P IMPLIES Q) (Q IMPLIES P )| (P IMPLIES Q) AND (Q IMPLIES P )| P IFF Q
+---|---|---|---|---
+T |T|  T T |T |T
+T |F| F T |F| F
+F |T |T F |F| F
+F |F |T T |T| T
+
+Axioms principles:
+1. consistent
+2. complete
+
+
+
+
+ 
