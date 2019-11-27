@@ -42,9 +42,9 @@ T |F| F T |F| F
 F |T |T F |F| F
 F |F |T T |T| T
 
-Axioms principles:
-1. consistent
-2. complete
+## Axioms principles:
+- 1. consistent
+- 2. complete
 
 
 
